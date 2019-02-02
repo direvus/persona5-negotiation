@@ -2721,3 +2721,20 @@
 		<td></td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<th colspan="2">I'm not the one you should want to shoot...</th>
+	</tr>
+	<tr>
+		<td>You've got a point there...</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>That's absurd.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Anyone will do.</td>
+		<td>good - gloomy</td>
+	</tr>
+</table>

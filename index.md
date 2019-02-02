@@ -1,132 +1,23 @@
-| Description               | Shadow           | Personality |
-|---------------------------|------------------|-------------|
-| Crypt-dwelling Pyromaniac | Jack-o-Lantern   | Gloomy      |
-| Beguiling Girl            | Pixie            | Timid       |
-| Bedside Brute             | Incubus          | Timid       |
-| Gallows-Flower            | Mandrake         | Upbeat      |
-| Dirty Two-horned Beast    | Bicorn           | Irritable   |
-| Apprentice in a Jug       | Agathion         | Timid       |
-| Brutal Cavalryman         | Berith           | Irritable   |
-| Troublesome Housemaid     | Silky            | Gloomy      |
-| Mad Marsh Horse           | Kelpie           | Upbeat      |
-| Twilight Prostitute       | Succubus         | Irritable   |
-| Menacing Owlman           | Andras           | Timid       |
-| War-hungry Horseman       | Eligor           | Irritable   |
-| Heavenly Punisher         | Archangel        |             |
-| Viscid Rotting Meat       | Slime            |             |
-|                           |                  |             |
-| Night-Walking Warrior     | Mokoi            | Gloomy      |
-| Waterside Nymph           | Apsaras          | Upbeat      |
-| Girl of the Hanging Tree  | Hua Po           | Upbeat      |
-| Leafy Old Man             | Koropokguru      | Timid       |
-| Corpse Bird               | Onmoraki         | Gloomy      |
-| Embittered Blacksmith     | Ippon-Datara     | Upbeat      |
-| Foolish Monk              | Koppa Tengu      | Upbeat      |
-| Night Chimera             | Nue              | Irritable   |
-| Mocking Snowman           | Jack Frost       | Timid       |
-| Hunting Wolf Spirit       | Makami           | Upbeat      |
-| Possessing Ghost Dog      | Inugami          | Timid       |
-| Bringer of Misfortune     | Shiki-Ouji       | Irritable   |
-|                           |                  |             |
-| Ascended Feline           | Nekomata         | Upbeat      |
-| Prankster Leader          | High Pixie       |             |
-| Zealous Messenger         | Angel            |             |
-| Twin-headed Guardian      | Orthrus          | Irritable   |
-| Equine Sage               | Orobas           | Timid       |
-| Chivalrous Fiend          | Oni              |             |
-| Human-eating Lady         | Yaksini          | Irritable   |
-| Jealous Lover             | Leanan Sidhe     | Irritable   |
-| Battle Fiend              | Rakshasa         | Irritable   |
-| Defeated Avenger          | Take-Minakata    | Gloomy      |
-| Floodbringer Demon        | Sui-ki           |             |
-| Tornado Devil             | Fuu-ki           | Gloomy      |
-| Demonic Warrior           | Kin-ki           |             |
-|                           |                  |             |
-| Envoy of Slumber          | Sandman          | Irritable   |
-| Thief of Tablets          | Anzu             | Irritable   |
-| Cavern Snakeman           | Naga             | Gloomy      |
-| Slithering Snakewoman     | Lamia            | Gloomy      |
-| Chanting Baboon           | Thoth            | Gloomy      |
-| She of Life and Death     | Isis             | Timid       |
-| Bearer of the Scales      | Anubis           | Gloomy      |
-| Coffin-borne God          | Mot              | Timid       |
-|                           |                  |             |
-| Vicious Pentagram         | Decarabia        | Gloomy      |
-| Pulsing Mud               | Black Ooze       | Irritable   |
-| Awakened God              | Arahabaki        | Gloomy      |
-| Rebellious Elephant       | Girimehkala      | Gloomy      |
-| Vampire Moth              | Mothman          | Timid       |
-| Ambassador of Filth       | Belphegor        | Irritable   |
-| Woman Who Brings Ruin     | Lilim            | Gloomy      |
-| Dark Sun                  | Mithras          | Gloomy      |
-| The Shadowed One          | Scathatch        | Upbeat      |
-| Star-Faced Enemy          | Kaiwan           |             |
-|                           |                  |             |
-| Cruel Leopard             | Ose              | Upbeat      |
-| 777: Obvious Unicorn      | Unicorn          | Timid       |
-| Floating Priestess        | Kikuri-Hime      | Gloomy      |
-| Funerary Warrior          | Valkyrie         | Irritable   |
-| Divine Warrior            | Power            | Irritable   |
-| Auspicious Pachyderm      | Ganesha          | Upbeat      |
-| 777: Full-Hair Woman      | Queen Mab        | Gloomy      |
-| Horse Warrior             | Kumbhanda        | Irritable   |
-| Lamenting Sacrifice       | Kushinada-Hime   | Upbeat      |
-| Dancing Witch             | Rangda           | Gloomy      |
-| Quaking Lady of Shadow    | Skadi            | Timid       |
-| Final Assessor            | Norn             | Upbeat      |
-| Wandering Reviver         | Nebiros          | Upbeat      |
-| Snake King                | Raja Naga        |             |
-| Thunder Emperor           | Thor             | Irritable   |
-|                           |                  |             |
-| Guard Doge of Hades       | Cerberus         | Irritable   |
-| Bloodthirst Demoness      | Dakini           | Upbeat      |
-| Strumming Veena Player    | Sarasvati        | Timid       |
-| Self-Infatuated Star      | Narcissus        | Timid       |
-| Monarch of Snow           | King Frost       | Upbeat      |
-| Scandalous Queen          | Titania          | Timid       |
-| Destructive Beauty        | Parvati          | Timid       |
-| Monk of the Valley        | Kurama Tengu     | Irritable   |
-| Dancing Lion              | Barong           | Timid       |
-| Rhetorician of the Sea    | Forneus          | Timid       |
-| Nimble Monkey King        | Hanuman          | Upbeat      |
-| Raging Bird God           | Garuda           | Irritable   |
-| Heretic Goat              | Baphomet         | Timid       |
-| Unfaithful Dream-King     | Oberon           | Irritable   |
-| Drunken Serpents          | Yamata-no-Orochi | Gloomy      |
-| Shadow Cleaner            | Ongyo-Ki         |             |
-| Spear-Wielding General    | Cu Chulainn      |             |
-|                           |                  |             |
-| Scarificial Pyrekeeper    | Moloch           | Gloomy      |
-| Hedonistic Braggart       | Dionysus         | Irritable   |
-| Pagan Avenger             | Melchizedek      | Irritable   |
-| The Black Avenger         | Chernobog        | Gloomy      |
-| Reviled Dictator          | Baal             | Upbeat      |
-| Missionary of Deparivity  | Belial           | Gloomy      |
-| Torn King of Desires      | Mara             | Irritable   |
-| Abyssal King of Avarice   | Abaddon          | Irritable   |
-|                           |                  |             |
-| Merciless Inquisitor      | Dominion         | Gloomy      |
-| The Blackened Fury        | Kali             | Irritable   |
-| Herald of Death           | Uriel            |             |
-| Cleanser of Heaven        | Raphael          |             |
-| Declarer of Anguish       | Gabriel          |             |
-| Apocalyptic Guide         | Michael          |             |
-|                           |                  |             |
-| Wavering Tree Spirit      | Kodama           | Upbeat      |
-| Piggyback Demon           | Obariyon         | Irritable   |
-| Corpse-eating Corpse      | Pisaca           | Gloomy      |
-| Noisy Mountain Spirit     | Sudama           | Timid       |
-| Gathering Devil           | Choronzon        | Timid       |
-| Fused Ghost               | Legion           | Upbeat      |
+# Responses by personality
 
-| Code | Personality | Likes   | Dislikes       | Indifferent |
-|------|-------------|---------|----------------|-------------|
-| Up   | Upbeat      | Funny   | Serious, Vague | Kind        |
-| Ti   | Timid       | Kind    | Vague, Funny   | Serious     |
-| Ir   | Irritable   | Serious | Vague, Kind    | Funny       |
-| Gl   | Gloomy      | Vague   | Serious, Funny | Kind        |
+| Code | Personality | Funny   | Kind    | Serious | Vague   |
+|------|-------------|---------|---------|---------|---------|
+| Up   | Upbeat      | ✓       | -       | ✗       | ✗       |
+| Ti   | Timid       | ✗       | ✓       | -       | ✗       |
+| Ir   | Irritable   | -       | ✗       | ✓       | ✗       |
+| Gl   | Gloomy      | ✗       | -       | ✗       | ✓       |
 
-***
+# Reactions by response
+
+| Type    | Up | Ti | Ir | Gl |
+|---------|----|----|----|----|
+| Funny   | ✓  | ✗  | -  | ✗  |
+| Kind    | -  | ✓  | ✗  | -  |
+| Serious | ✗  | -  | ✓  | ✗  |
+| Vague   | ✗  | ✗  | ✗  | ✓  |
+
+# Challenges and responses
+
 <table>
     <tr>
         <th colspan="6">...You know what I'm gettin' at, right? You think you could let me go see my girl?</th>
@@ -4429,3 +4320,127 @@
         <td>✓</td>
     </tr>
 </table>
+
+# Shadow personalities
+
+| Description               | Shadow           | Personality |
+|---------------------------|------------------|-------------|
+| Crypt-dwelling Pyromaniac | Jack-o-Lantern   | Gloomy      |
+| Beguiling Girl            | Pixie            | Timid       |
+| Bedside Brute             | Incubus          | Timid       |
+| Gallows-Flower            | Mandrake         | Upbeat      |
+| Dirty Two-horned Beast    | Bicorn           | Irritable   |
+| Apprentice in a Jug       | Agathion         | Timid       |
+| Brutal Cavalryman         | Berith           | Irritable   |
+| Troublesome Housemaid     | Silky            | Gloomy      |
+| Mad Marsh Horse           | Kelpie           | Upbeat      |
+| Twilight Prostitute       | Succubus         | Irritable   |
+| Menacing Owlman           | Andras           | Timid       |
+| War-hungry Horseman       | Eligor           | Irritable   |
+| Heavenly Punisher         | Archangel        |             |
+| Viscid Rotting Meat       | Slime            |             |
+|                           |                  |             |
+| Night-Walking Warrior     | Mokoi            | Gloomy      |
+| Waterside Nymph           | Apsaras          | Upbeat      |
+| Girl of the Hanging Tree  | Hua Po           | Upbeat      |
+| Leafy Old Man             | Koropokguru      | Timid       |
+| Corpse Bird               | Onmoraki         | Gloomy      |
+| Embittered Blacksmith     | Ippon-Datara     | Upbeat      |
+| Foolish Monk              | Koppa Tengu      | Upbeat      |
+| Night Chimera             | Nue              | Irritable   |
+| Mocking Snowman           | Jack Frost       | Timid       |
+| Hunting Wolf Spirit       | Makami           | Upbeat      |
+| Possessing Ghost Dog      | Inugami          | Timid       |
+| Bringer of Misfortune     | Shiki-Ouji       | Irritable   |
+|                           |                  |             |
+| Ascended Feline           | Nekomata         | Upbeat      |
+| Prankster Leader          | High Pixie       |             |
+| Zealous Messenger         | Angel            |             |
+| Twin-headed Guardian      | Orthrus          | Irritable   |
+| Equine Sage               | Orobas           | Timid       |
+| Chivalrous Fiend          | Oni              |             |
+| Human-eating Lady         | Yaksini          | Irritable   |
+| Jealous Lover             | Leanan Sidhe     | Irritable   |
+| Battle Fiend              | Rakshasa         | Irritable   |
+| Defeated Avenger          | Take-Minakata    | Gloomy      |
+| Floodbringer Demon        | Sui-ki           |             |
+| Tornado Devil             | Fuu-ki           | Gloomy      |
+| Demonic Warrior           | Kin-ki           |             |
+|                           |                  |             |
+| Envoy of Slumber          | Sandman          | Irritable   |
+| Thief of Tablets          | Anzu             | Irritable   |
+| Cavern Snakeman           | Naga             | Gloomy      |
+| Slithering Snakewoman     | Lamia            | Gloomy      |
+| Chanting Baboon           | Thoth            | Gloomy      |
+| She of Life and Death     | Isis             | Timid       |
+| Bearer of the Scales      | Anubis           | Gloomy      |
+| Coffin-borne God          | Mot              | Timid       |
+|                           |                  |             |
+| Vicious Pentagram         | Decarabia        | Gloomy      |
+| Pulsing Mud               | Black Ooze       | Irritable   |
+| Awakened God              | Arahabaki        | Gloomy      |
+| Rebellious Elephant       | Girimehkala      | Gloomy      |
+| Vampire Moth              | Mothman          | Timid       |
+| Ambassador of Filth       | Belphegor        | Irritable   |
+| Woman Who Brings Ruin     | Lilim            | Gloomy      |
+| Dark Sun                  | Mithras          | Gloomy      |
+| The Shadowed One          | Scathatch        | Upbeat      |
+| Star-Faced Enemy          | Kaiwan           |             |
+|                           |                  |             |
+| Cruel Leopard             | Ose              | Upbeat      |
+| 777: Obvious Unicorn      | Unicorn          | Timid       |
+| Floating Priestess        | Kikuri-Hime      | Gloomy      |
+| Funerary Warrior          | Valkyrie         | Irritable   |
+| Divine Warrior            | Power            | Irritable   |
+| Auspicious Pachyderm      | Ganesha          | Upbeat      |
+| 777: Full-Hair Woman      | Queen Mab        | Gloomy      |
+| Horse Warrior             | Kumbhanda        | Irritable   |
+| Lamenting Sacrifice       | Kushinada-Hime   | Upbeat      |
+| Dancing Witch             | Rangda           | Gloomy      |
+| Quaking Lady of Shadow    | Skadi            | Timid       |
+| Final Assessor            | Norn             | Upbeat      |
+| Wandering Reviver         | Nebiros          | Upbeat      |
+| Snake King                | Raja Naga        |             |
+| Thunder Emperor           | Thor             | Irritable   |
+|                           |                  |             |
+| Guard Doge of Hades       | Cerberus         | Irritable   |
+| Bloodthirst Demoness      | Dakini           | Upbeat      |
+| Strumming Veena Player    | Sarasvati        | Timid       |
+| Self-Infatuated Star      | Narcissus        | Timid       |
+| Monarch of Snow           | King Frost       | Upbeat      |
+| Scandalous Queen          | Titania          | Timid       |
+| Destructive Beauty        | Parvati          | Timid       |
+| Monk of the Valley        | Kurama Tengu     | Irritable   |
+| Dancing Lion              | Barong           | Timid       |
+| Rhetorician of the Sea    | Forneus          | Timid       |
+| Nimble Monkey King        | Hanuman          | Upbeat      |
+| Raging Bird God           | Garuda           | Irritable   |
+| Heretic Goat              | Baphomet         | Timid       |
+| Unfaithful Dream-King     | Oberon           | Irritable   |
+| Drunken Serpents          | Yamata-no-Orochi | Gloomy      |
+| Shadow Cleaner            | Ongyo-Ki         |             |
+| Spear-Wielding General    | Cu Chulainn      |             |
+|                           |                  |             |
+| Scarificial Pyrekeeper    | Moloch           | Gloomy      |
+| Hedonistic Braggart       | Dionysus         | Irritable   |
+| Pagan Avenger             | Melchizedek      | Irritable   |
+| The Black Avenger         | Chernobog        | Gloomy      |
+| Reviled Dictator          | Baal             | Upbeat      |
+| Missionary of Deparivity  | Belial           | Gloomy      |
+| Torn King of Desires      | Mara             | Irritable   |
+| Abyssal King of Avarice   | Abaddon          | Irritable   |
+|                           |                  |             |
+| Merciless Inquisitor      | Dominion         | Gloomy      |
+| The Blackened Fury        | Kali             | Irritable   |
+| Herald of Death           | Uriel            |             |
+| Cleanser of Heaven        | Raphael          |             |
+| Declarer of Anguish       | Gabriel          |             |
+| Apocalyptic Guide         | Michael          |             |
+|                           |                  |             |
+| Wavering Tree Spirit      | Kodama           | Upbeat      |
+| Piggyback Demon           | Obariyon         | Irritable   |
+| Corpse-eating Corpse      | Pisaca           | Gloomy      |
+| Noisy Mountain Spirit     | Sudama           | Timid       |
+| Gathering Devil           | Choronzon        | Timid       |
+| Fused Ghost               | Legion           | Upbeat      |
+

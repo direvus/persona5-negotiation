@@ -309,7 +309,11 @@
     </tr>
     <tr>
         <td>I'm not that young.</td>
-        <td></td>
+        <td>Serious</td>
+        <td>✗</td>
+        <td>-</td>
+        <td>✓</td>
+        <td>✗</td>
     </tr>
     <tr>
         <td>I'm not sleepy yet.</td>
@@ -1895,7 +1899,11 @@
     </tr>
     <tr>
         <td>Fine, I'll grill you.</td>
-        <td></td>
+        <td>Serious</td>
+        <td>✗</td>
+        <td>-</td>
+        <td>✓</td>
+        <td>✗</td>
     </tr>
     <tr>
         <td>Alright, I'll mince you.</td>
@@ -2395,10 +2403,10 @@
     </tr>
     <tr>
         <td>It pains my heart...</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Kind</td>
+        <td>-</td>
+        <td>✓</td>
+        <td>✗</td>
         <td>-</td>
     </tr>
 </table>
@@ -4754,6 +4762,117 @@
         <td>✗</td>
         <td>✗</td>
         <td>✓</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th colspan="6">Would you do to anyone else what you're doing to me now?</th>
+    </tr>
+    <tr>
+        <th>Response</th>
+        <th>Type</th>
+        <th>Up</th>
+        <th>Ti</th>
+        <th>Ir</th>
+        <th>Gl</th>
+    </tr>
+    <tr>
+        <td>I sure would.</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>No, I wouldn't.</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>This is a special exception</td>
+        <td></td>
+        <td></td>
+        <td>-</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th colspan="6">But is it fair to the others if I find this happiness, leaving them all in the dust?</th>
+    </tr>
+    <tr>
+        <th>Response</th>
+        <th>Type</th>
+        <th>Up</th>
+        <th>Ti</th>
+        <th>Ir</th>
+        <th>Gl</th>
+    </tr>
+    <tr>
+        <td>I think it's fine</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>What's wrong with that?</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>You're too self-conscious</td>
+        <td></td>
+        <td></td>
+        <td>✗</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th colspan="6">You do know that just pointing that at someone doesn't actually do anything right? Buffoon.</th>
+    </tr>
+    <tr>
+        <th>Response</th>
+        <th>Type</th>
+        <th>Up</th>
+        <th>Ti</th>
+        <th>Ir</th>
+        <th>Gl</th>
+    </tr>
+    <tr>
+        <td>I know.</td>
+        <td>Serious</td>
+        <td>✗</td>
+        <td>-</td>
+        <td>✓</td>
+        <td>✗</td>
+    </tr>
+    <tr>
+        <td>Don't act so tough</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>You're doing nothing, too.</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 

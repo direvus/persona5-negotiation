@@ -1164,7 +1164,11 @@
     </tr>
     <tr>
         <td>I think there is.</td>
-        <td></td>
+        <td>Kind</td>
+        <td>-</td>
+        <td>✓</td>
+        <td>✗</td>
+        <td>-</td>
     </tr>
     <tr>
         <td>I can't promise that.</td>
@@ -2577,7 +2581,11 @@
     </tr>
     <tr>
         <td>Are you busy?</td>
-        <td></td>
+        <td>Serious</td>
+        <td>✗</td>
+        <td>-</td>
+        <td>✓</td>
+        <td>✗</td>
     </tr>
     <tr>
         <td>I just couldn't.</td>
